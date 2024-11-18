@@ -1,3 +1,4 @@
+name
 
 
 # Git Notes: Comprehensive Overview with Explanations
@@ -228,3 +229,6 @@ git cm -m "Message"
 
 
 
+=======
+name
+>>>>>>> feature-enhanced
